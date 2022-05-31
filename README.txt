@@ -1,0 +1,2 @@
+The notebooks contain the codes for the implementation of the models on Ethereum and Bitcoin. 
+The notebooks accesse the live dataset directly so the models can be run without needing to change anything. 
